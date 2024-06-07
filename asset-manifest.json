@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IWAIDeploy/static/css/main.62e57bc4.css",
+    "main.js": "/IWAIDeploy/static/js/main.f2eda177.js",
+    "index.html": "/IWAIDeploy/index.html",
+    "main.62e57bc4.css.map": "/IWAIDeploy/static/css/main.62e57bc4.css.map",
+    "main.f2eda177.js.map": "/IWAIDeploy/static/js/main.f2eda177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62e57bc4.css",
+    "static/js/main.f2eda177.js"
+  ]
+}
